@@ -9,5 +9,6 @@ Burada yazılım derslerimden aldığım kişisel notlarımı paylaşmaktayım.
 - [JavaScript](https://drive.google.com/file/d/176f6H7Ls0CGqXQHX1mBtcs9u7EjfVd1r/view)
 - [RabbitMQ](https://drive.google.com/file/d/1RwmsyIuT3riC7sCovGcd827pK2-uNUVV/view)
 - [Unit-Test](https://drive.google.com/file/d/1UjY5WV8qKcpcsgKMcaYjmqsCPy7boSgy/view)
+- [HTML-CSS](https://drive.google.com/file/d/15agRhvRSZNx_dtfIPS5fLmiqls0T0s-m/view)
 
 

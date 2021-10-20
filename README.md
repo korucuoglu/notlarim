@@ -7,6 +7,7 @@ Burada yazılım derslerimden aldığım kişisel notlarımı paylaşmaktayım.
 - [Docker](https://drive.google.com/file/d/15PD9wrxOsnxXRaHbtoOwXP81i1GNbnEY/view)
 - [Redis](https://drive.google.com/file/d/15LJbO8GfH_89gzjCN11evwxOVylMtp71/view)
 - [RabbitMQ](https://drive.google.com/file/d/1RwmsyIuT3riC7sCovGcd827pK2-uNUVV/view)
+- [SignalR](https://drive.google.com/file/d/1Bg3-tV4vMRJn4-u9slbLKHIJAP0gtM8b/view)
 - [Unit-Test](https://drive.google.com/file/d/1UjY5WV8qKcpcsgKMcaYjmqsCPy7boSgy/view)
 - [HTML-CSS](https://drive.google.com/file/d/15agRhvRSZNx_dtfIPS5fLmiqls0T0s-m/view)
 - [JavaScript](https://drive.google.com/file/d/176f6H7Ls0CGqXQHX1mBtcs9u7EjfVd1r/view)

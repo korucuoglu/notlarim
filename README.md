@@ -4,14 +4,14 @@ Bu repository içerisinde yazılım derslerimden aldığım kişisel notlarımı
 
 - [Asp.Net Core](https://drive.google.com/file/d/12p4UyUdtLoz0vHDqmwl0z44jkVdyiprX/view)
 **Bu eğitim setinde öğrendiklerim**
-		Generic Repository
-		Unit Of Work
-		AutoMapper
-		ValidationFilter ve Not Found Filter
-		Net Core Api 
-		FLuent Validation ve Model Metadata Type
-		VueJs ile CRUD İşlemleri
-		Axios
+	- Generic Repository
+	- Unit Of Work
+	- AutoMapper
+	- ValidationFilter ve Not Found Filter
+	- Net Core Api 
+	- FLuent Validation ve Model Metadata Type
+	- VueJs ile CRUD İşlemleri
+	- Axios
 
 - [Microservice](https://drive.google.com/file/d/18I9NpnZXm_IknSZye7BJm8P5zgupZPpa/view)
 **Bu eğitim setinde öğrendiklerim**

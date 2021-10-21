@@ -1,6 +1,6 @@
 # Yazılım Notlarım
 
-Burada yazılım derslerimden aldığım kişisel notlarımı paylaşmaktayım. 
+Bu repository içerisinde yazılım derslerimden aldığım kişisel notlarımı paylaşmaktayım. 
 
 - [Asp.Net Core](https://drive.google.com/file/d/12p4UyUdtLoz0vHDqmwl0z44jkVdyiprX/view)
 - [Microservice](https://drive.google.com/file/d/18I9NpnZXm_IknSZye7BJm8P5zgupZPpa/view)

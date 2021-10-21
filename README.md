@@ -15,77 +15,78 @@ Bu repository içerisinde yazılım derslerimden aldığım kişisel notlarımı
 
 - [Microservice](https://drive.google.com/file/d/18I9NpnZXm_IknSZye7BJm8P5zgupZPpa/view)
 **Bu eğitim setinde öğrendiklerim**
--> 1. Senkron ve Asenkron İletişim
--> 2. MongoDB
--> 3. Docker Portainer
--> 4. IdentityServer 4
--> 5. Options Pattern
--> 6. PostgreSQL
--> 7. Dapper ORM
--> 8. Entity Framework Core ORM
--> 9. Domain Driven Design
-->10. Aggregate Root, Entity, Value Object
--> 11. Bounded Context
--> 12. CQRS Pattern
--> 13. Gateway & Ocelot Library
--> 14. JWT Authentication
--> 15. Cookie Based Authentication
--> 16. Delegating Handler
--> 17. RabbitMQ
--> 18. Mass Transit Library
--> 19. Identity Model Library
--> 20. Eventual Consistency
--> 21. Token Exchange
--> 22. Docker Compose
+	- Senkron ve Asenkron İletişim
+	- MongoDB
+	- Docker Portainer
+	- IdentityServer 4
+	- Options Pattern
+	- PostgreSQL
+	- Dapper ORM
+	- Entity Framework Core ORM
+	- Domain Driven Design
+	- Aggregate Root, Entity, Value Object
+	- Bounded Context
+	- CQRS Pattern
+	- Gateway & Ocelot Library
+	- JWT Authentication
+	- Cookie Based Authentication
+	- Delegating Handler
+	- RabbitMQ
+	- Mass Transit Library
+	- Identity Model Library
+	- Eventual Consistency
+	- Token Exchange
+	- Docker Compose
 
 - [Docker](https://drive.google.com/file/d/15PD9wrxOsnxXRaHbtoOwXP81i1GNbnEY/view)
 **Bu eğitim setinde öğrendiklerim**
--> 1. Docker File
--> 2. Docker İmage
--> 3. Docker Container
--> 4. Docker CLI
--> 5. Dotnet CLI
--> 6. Docker Hub & Docker Registry
--> 7. Net Core Console Dockerize
--> 8. .Net Core MVC Dockerize && Unit Test and N Layer
--> 9. Docker Volume
-->10. Docker Bind
--> 11. Docker Environment
+	- Docker File
+	- Docker İmage
+	- Docker Container
+	- Docker CLI
+	- Dotnet CLI
+	- Docker Hub & Docker Registry
+	-  Net Core Console Dockerize
+	- .Net Core MVC Dockerize && Unit Test and N Layer
+	-  Docker Volume
+	- Docker Bind
+	- Docker Environment
 
 - [Redis](https://drive.google.com/file/d/15LJbO8GfH_89gzjCN11evwxOVylMtp71/view)
 **Bu eğitim setinde öğrendiklerim**
--> 1. In-Memory Caching & Private Caching
--> 2. Distributed Caching & Shared Caching
--> 3. On-Demand ve Pre Population
--> 4. Absolute and Sliding Time
--> 5. Chocolatey
--> 6. Redis String, Redis List, Redis Set, Redis Sorted Set, Redis Hash
--> 7. Redis IDistributed Cache
--> 8. Stach Exchange Redis
+	- In-Memory Caching & Private Caching
+	- Distributed Caching & Shared Caching
+	- On-Demand ve Pre Population
+	- Absolute and Sliding Time
+	- Chocolatey
+	- Redis String, Redis List, Redis Set, Redis Sorted Set, Redis Hash
+	- Redis IDistributed Cache
+	- Stach Exchange Redis
 - [RabbitMQ](https://drive.google.com/file/d/1RwmsyIuT3riC7sCovGcd827pK2-uNUVV/view)
 **Bu eğitim setinde öğrendiklerim**
--> 1. RabbitMQ Cloud
--> 2. RabbitMQ Exchanges (Fanout, Direct, Topic, Header)
--> 3. Publisher & Consumer
--> 4. Message & Event
--> 5. WorkerService
--> 6.SignalR Notification
+
+	- RabbitMQ Cloud
+	- RabbitMQ Exchanges (Fanout, Direct, Topic, Header)
+	- Publisher & Consumer
+	- Message & Event
+	- WorkerService
+	- SignalR Notification
 - [SignalR](https://drive.google.com/file/d/1Bg3-tV4vMRJn4-u9slbLKHIJAP0gtM8b/view)
 **Bu eğitim setinde öğrendiklerim**
--> 1. SignalR Server
--> 2. SignalR Client
--> 3. SignalR IHubContext<>
--> 4. SignalR Client.All
--> 5. SignalR Client.Caller
--> 6. SignalR Client.Group
--> 7. Strongly Typed Hubs
+	- SignalR Server
+	- SignalR Client
+	- SignalR IHubContext<>
+	- SignalR Client.All
+	- SignalR Client.Caller
+	- SignalR Client.Group
+	- Strongly Typed Hubs
 
 - [Unit-Test](https://drive.google.com/file/d/1UjY5WV8qKcpcsgKMcaYjmqsCPy7boSgy/view)
 **Bu eğitim setinde öğrendiklerim**
--> 1. XUnit Framework
--> 2. Fact, Theory, InlineData
--> 3. Moq Framework
--> 4. Database Provider Unit Test
+	- XUnit Framework
+	- Fact, Theory, InlineData
+	- Moq Framework
+	- Database Provider Unit Test
 
 
 - [HTML-CSS](https://drive.google.com/file/d/15agRhvRSZNx_dtfIPS5fLmiqls0T0s-m/view)

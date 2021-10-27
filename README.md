@@ -9,7 +9,7 @@ Bu repository içerisinde yazılım derslerimden aldığım kişisel notlarımı
 	- AutoMapper
 	- ValidationFilter ve Not Found Filter
 	- Net Core Api 
-	- FLuent Validation ve Model Metadata Type
+	- Fluent Validation ve Model Metadata Type
 	- VueJs ile CRUD İşlemleri
 	- Axios
 
@@ -87,7 +87,8 @@ Bu repository içerisinde yazılım derslerimden aldığım kişisel notlarımı
 	- Fact, Theory, InlineData
 	- Moq Framework
 	- Database Provider Unit Test
-
+	
+- [Identity Server](https://drive.google.com/file/d/12hZfDabcUWNzgJYAppVdTWUoeuDJOOl4/view)
 
 - [HTML-CSS](https://drive.google.com/file/d/15agRhvRSZNx_dtfIPS5fLmiqls0T0s-m/view)
 - [JavaScript](https://drive.google.com/file/d/176f6H7Ls0CGqXQHX1mBtcs9u7EjfVd1r/view)

@@ -12,6 +12,11 @@ Bu repository içerisinde yazılım derslerimden aldığım kişisel notlarımı
 	- Fluent Validation ve Model Metadata Type
 	- VueJs ile CRUD İşlemleri
 	- Axios
+- [Patika.Dev Asp.Net Core Patikası](https://drive.google.com/file/d/19gfgNxv8EGWdkLs38_E8Po5fus9ImQqQ/view)
+**eğitiminden öğrendiklerim**
+	- Git
+	- T-SQL
+	- PostgreSQL and PSQL
 
 - [Microservice](https://drive.google.com/file/d/18I9NpnZXm_IknSZye7BJm8P5zgupZPpa/view)
 **eğitiminden öğrendiklerim**

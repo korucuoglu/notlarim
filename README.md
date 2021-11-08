@@ -15,8 +15,10 @@ Bu repository içerisinde yazılım derslerimden aldığım kişisel notlarımı
 - [Patika.Dev Asp.Net Core Patikası](https://drive.google.com/file/d/19gfgNxv8EGWdkLs38_E8Po5fus9ImQqQ/view)
 **eğitiminden öğrendiklerim**
 	- Git
-	- T-SQL
 	- PostgreSQL and PSQL
+	- Dependency Injection ile Bağımlılık Yönetimi
+	- Middleware
+	- Swagger ve Postman Kullanımı
 
 - [Microservice](https://drive.google.com/file/d/18I9NpnZXm_IknSZye7BJm8P5zgupZPpa/view)
 **eğitiminden öğrendiklerim**
@@ -69,7 +71,6 @@ Bu repository içerisinde yazılım derslerimden aldığım kişisel notlarımı
 	- Stach Exchange Redis
 - [RabbitMQ](https://drive.google.com/file/d/1RwmsyIuT3riC7sCovGcd827pK2-uNUVV/view)
 **eğitiminden öğrendiklerim**
-
 	- RabbitMQ Cloud
 	- RabbitMQ Exchanges (Fanout, Direct, Topic, Header)
 	- Publisher & Consumer
